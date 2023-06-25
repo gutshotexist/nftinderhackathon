@@ -1,0 +1,11 @@
+{
+    "description": "Donuts NFTs for NFTinder",
+    "image": "ipfs://QmVdB5BHQJ94Gxd5ryZciAmeuZy2BMD6sy1xKRbDTLKtg8/0.png", 
+    "name": "Donut with bloody glaze",
+    "attributes": [
+    {
+        "value": "Yes",
+        "company": "NFTinder"
+    }
+    ]
+}
